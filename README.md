@@ -1,4 +1,5 @@
 <div align="center"><h1>Education</h1>
+This project aims to present a comprehensive online educational platform, emphasizing the importance of education and its various aspects.The navigation bar includes links to Home, About, Service, and Contact sections, along with a search input and a search button. It also features a burger menu for responsive design.This section introduces the website with a headline "The Future Of Education here". It includes a brief description of the website's mission and vision, along with buttons to subscribe and watch a video.This section provides more detailed information about education, discussing its definition and different forms. It includes a large image related to education.
 
 
 
